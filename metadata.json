@@ -1,0 +1,5 @@
+{
+  "name": "Metro Morality",
+  "description": "An interactive 2D game designed to study human psychology through a series of moral dilemmas on a metro platform, all under the pressure of a ticking clock. Players navigate choices that impact their time, leading to a final analysis of their decisions.",
+  "requestFramePermissions": []
+}
